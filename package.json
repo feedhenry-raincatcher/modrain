@@ -1,6 +1,6 @@
 {
   "name": "raincatcher-modrain",
-  "version": "0.0.1",
+  "version": "0.0.1-pre.1",
   "description": "Prototype of a mediator with observables",
   "main": "./lib/angular/index.js",
   "scripts": {
